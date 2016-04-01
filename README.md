@@ -21,14 +21,10 @@
 - https://www.reddit.com/r/joinrobin/comments/4cwkbg/there_are_other_related_subreddits_the_mystery/
 - https://www.reddit.com/r/joinweasel
 - https://www.reddit.com/r/joinrobin/comments/4cw726/what_we_know_so_far/
-- 
+
 # Autogrow
 Go here for autogrow script: https://jsfiddle.net/gvh7tdtg/1/
-
-Or select and drag this script to your bookmark bar:
-```
-javascript:(function()%7BsetTimeout(function()%20%7B%20%24('.robin-chat--vote-increase').click()%20%7D%2C%201000)%3B%20alert(%22You%20are%20now%20auto-growing.%22)%7D)()
-```
+[Alternate script](https://github.com/rickhanlonii/reddit-robin/blob/master/autogrow.js)
 
 # Commands
 - `/me <message>`
