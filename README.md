@@ -23,7 +23,7 @@
 - https://www.reddit.com/r/joinrobin/comments/4cw726/what_we_know_so_far/
 
 # Autogrow
-Go here for autogrow script: https://jsfiddle.net/gvh7tdtg/1/
+Go here for autogrow script: https://jsfiddle.net/gvh7tdtg/1/  
 [Alternate script](https://github.com/rickhanlonii/reddit-robin/blob/master/autogrow.js)
 
 # Commands
