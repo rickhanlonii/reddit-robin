@@ -8,6 +8,20 @@
 
 - Non-votes and abstentions will be counted as votes to abandon. [link](https://github.com/rickhanlonii/reddit-robin/pull/1/files#r58232264)  
 
+- There's a growing number of know related subreddits:
+  - /r/joinrobin
+  - /r/joinrhino
+  - /r/joinsquirrel
+  - /r/joinduck
+  - /r/joinweasel
+
+- Each subreddit changes the message periodically. 
+
+# Links
+- https://www.reddit.com/r/joinrobin/comments/4cwkbg/there_are_other_related_subreddits_the_mystery/
+- https://www.reddit.com/r/joinweasel
+- https://www.reddit.com/r/joinrobin/comments/4cw726/what_we_know_so_far/
+- 
 # Autogrow
 Go here for autogrow script: https://jsfiddle.net/gvh7tdtg/1/
 
