@@ -7,6 +7,11 @@ What we know so far The chat works in rounds. You have to vote on if you want to
 # Autogrow
 Go here for autogrow script: https://jsfiddle.net/gvh7tdtg/1/
 
+Or select and drag this script to your bookmark bar:
+```
+javascript:(function()%7BsetTimeout(function()%20%7B%20%24('.robin-chat--vote-increase').click()%20%7D%2C%201000)%3B%20alert(%22You%20are%20now%20auto-growing.%22)%7D)()
+```
+
 # Commands
 - `/me <message>`
 - `/whois <user>`
