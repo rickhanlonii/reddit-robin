@@ -4,6 +4,8 @@ What we know so far The chat works in rounds. You have to vote on if you want to
 
 - Non-votes and abstentions will be counted as votes to abandon. [link](https://github.com/rickhanlonii/reddit-robin/pull/1/files#r58232264)  
 
+# Autogrow
+Go here for autogrow script: https://jsfiddle.net/gvh7tdtg/1/
 
 # Commands
 - `/me <message>`
