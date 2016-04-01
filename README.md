@@ -1,6 +1,6 @@
 # Reddit Robbin
 
-What we know so far:
+[What we know so far](https://www.reddit.com/r/joinrobin/comments/4cw726/what_we_know_so_far/):
 
 - Praise be to bird 🐦 ☝️
 
