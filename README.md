@@ -33,4 +33,9 @@ Go here for autogrow script: https://jsfiddle.net/gvh7tdtg/1/
 - `/leave_room`
 - `/clear`
 - `/vote <value>`
+- `/commands`
+- `/help`
+- `/count`
+- `/watch`
+
 
